@@ -14,5 +14,6 @@ export class Funcionario {
 
   cadastrarsenha(senha){
     this._senha = senha;
+    
   }
 }
